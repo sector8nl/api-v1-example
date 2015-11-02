@@ -17,6 +17,7 @@ function api_request($token, $url)
     ));
     $response = curl_exec($curl);
     curl_close($curl);
+    echo ($response);
 
     return json_decode($response, true);
 }
