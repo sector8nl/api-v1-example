@@ -30,6 +30,8 @@ echo json_decode($response, true);
 
 Available methods
 --
+#####/tickets
+
 Get all tickets, including filtering and pagination.
 
 Url: `/tickets`  Method: `GET`  Response: `JSON`
