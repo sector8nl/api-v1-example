@@ -43,7 +43,7 @@ Url: `/tickets`  Method: `GET`  Response: `JSON`
 
 #####JSON response example
 #######Request:
-https://app.trengo.eu/api/v1/tickets?status=`OPEN`
+`https://app.trengo.eu/api/v1/tickets?status=OPEN`
 #######Response:
 ```json
 {
