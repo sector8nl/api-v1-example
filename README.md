@@ -8,7 +8,7 @@ The documentation is a work in progress.
 
 ###Accessing the API
 
-Make a GET request to https://app.trengo.eu/api/v1/{method} with a request-header named `token`. This a unique string referencing the agency.
+Make a GET request to https://app.trengo.eu/api/v1/{method} with a request-header named `token`. This an unique string referencing the agency.
 
 #####Example
 
